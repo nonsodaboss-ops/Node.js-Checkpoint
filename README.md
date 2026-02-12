@@ -4,4 +4,4 @@ This project demonstrates how to send emails using **Node.js** and the [Nodemail
 --- ## 🚀 Features 
 - Sends an email using Gmail’s SMTP server.
 - Uses **environment variables** for secure credential management.
-- - Simple and beginner-friendly setup.
+- Simple and beginner-friendly setup.
